@@ -1,0 +1,100 @@
+@media(max-width:1024px) {
+    .image_about .carousel-item img {
+        width: 340px !important;
+        height: 450px !important;
+    }
+    .image_about .carousel-item {
+        margin-left: 15% !important;
+    }
+    .padding {
+        padding-top: 420px !important;
+    }
+    .about_description {
+        padding: 80px 120px 80px 50px;
+    }
+}
+
+@media(max-width:768px) {
+    .image img {
+        height: 100% !important;
+        width: 100% !important;
+        margin-bottom: 30px !important;
+    }
+    .text-block {
+        position: relative !important;
+        bottom: 0 !important;
+        top: 32% !important;
+    }
+    .about_description {
+        padding: 0 !important;
+        position: relative !important;
+        width: 100% !important;
+    }
+    .carousel {
+        position: relative !important;
+    }
+    .image_about .carousel-item img {
+        width: 100% !important;
+    }
+    .image_about .carousel-item {
+        margin-left: 0 !important;
+        width: 100% !important;
+    }
+    .image_about {
+        margin-top: 20px !important;
+    }
+    .padding {
+        padding-top: 80px !important;
+    }
+}
+
+@media(max-width:600px) {
+    .text-block p {
+        font-size: 20px !important;
+    }
+    .text-block {
+        bottom: 40% !important;
+    }
+    .text-block-right {
+        bottom: 30% !important;
+    }
+    .footer .text-end {
+        text-align: center !important;
+    }
+    .image img {
+        height: 100% !important;
+        width: 100% !important;
+        margin-bottom: 30px !important;
+    }
+    .carousel-inner {
+        height: auto !important;
+    }
+    .margin {
+        padding-top: 20px !important;
+    }
+    .image_about .carousel-item {
+        position: relative !important;
+        margin-left: 0 !important;
+        height: 100% !important;
+        width: 100% !important;
+    }
+    .carousel {
+        position: relative !important;
+    }
+    .about_description {
+        position: relative !important;
+        padding: 0 !important;
+        width: 100% !important;
+    }
+    .padding {
+        padding-top: 80px !important;
+    }
+}
+
+@media(max-width:540px) {
+    .text-block {
+        position: relative !important;
+        bottom: 0 !important;
+        top: 72% !important;
+    }
+}
